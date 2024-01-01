@@ -78,11 +78,12 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 ## Stats
 
-[![wakatime badge](https://wakatime.com/badge/user/53fb229b-d6c8-4ee4-8592-c1aa087e5019.svg)](https://wakatime.com/@53fb229b-d6c8-4ee4-8592-c1aa087e5019)
 <br>
-<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=miman&count_private=true&show_icons=true&theme=buefy"/>
 <img style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miman&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos"/>
-<!--img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miman&layout=compact&custom_title=Wakatime%20stats&langs_count=10"/>
+<!--
+<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=miman&count_private=true&show_icons=true&theme=buefy"/>
+
+<img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miman&layout=compact&custom_title=Wakatime%20stats&langs_count=10"/>
 **miman/miman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 icons: https://devicon.dev/
