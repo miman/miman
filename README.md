@@ -10,16 +10,16 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 ### Languages
 
-<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/miman/miman/main/ts-logo.png" style="padding-right: 5px;" />
+<img align="left" title="TypeScript" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/ts-logo.png" style="padding-right: 5px;" />
 <img align="left" title="Spring" alt="Spring" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="padding-right: 5px;" />
-<img align="left" title="Java" alt="Java" height="28px" src="https://github.com/miman/miman/blob/main/java-icon.png?raw=true" style="padding-right: 5px;" />
+<img align="left" title="Java" alt="Java" height="34px" src="https://github.com/miman/miman/blob/main/java-icon.png?raw=true" style="padding-right: 5px;" />
 <img align="left" title="C#" alt="C#" width="30px" src="https://github.com/miman/miman/blob/main/c-logo-icon-18.png?raw=true" style="padding-right: 5px;" />
-<img align="left" title="Pyhton" alt="Pyhton" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right: 5px;" />
+<img align="left" title="Pyhton" alt="Pyhton" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right: 5px;" />
 <img align="left" title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 5px;" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right: 5px;" />
-<img align="left" title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right: 5px;" />
-<img align="left" title="Flutter" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right: 5px;" />
-<img align="left" title="Dart" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right: 5px;" />
+<img align="left" title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right: 5px;" />
+<img align="left" title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right: 5px;" />
+<img align="left" title="Flutter" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right: 5px;" />
+<img align="left" title="Dart" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right: 5px;" />
 <img align="left" title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right: 5px;" />
 
 
@@ -53,10 +53,10 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 ### Framework / Infra
 
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right: 5px;" />
-<img align="left" title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/miman/miman/main/postgresql.png" style="padding-right: 5px;" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/miman/miman/main/git.png" style="padding-right: 5px;" />
-<img align="left" title="Subversion" alt="Subversion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" style="padding-right: 5px;" />
+<img align="left" title="Node.js" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right: 5px;" />
+<img align="left" title="PostgreSQL" alt="PostgreSQL" width="38x" src="https://raw.githubusercontent.com/miman/miman/main/postgresql.png" style="padding-right: 5px;" />
+<img align="left" title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/git.png" style="padding-right: 5px;" />
+<img align="left" title="Subversion" alt="Subversion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" style="padding-right: 5px;" />
 
 <br>
 
