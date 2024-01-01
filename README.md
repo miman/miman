@@ -21,6 +21,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 <img align="left" title="Flutter" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right: 5px;" />
 <img align="left" title="Dart" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right: 5px;" />
 <img align="left" title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right: 5px;" />
+<img align="left" title="GraphQL" alt="GraphQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="padding-right: 5px;" />
 
 
 <br>
@@ -57,6 +58,11 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 <img align="left" title="PostgreSQL" alt="PostgreSQL" width="38x" src="https://raw.githubusercontent.com/miman/miman/main/postgresql.png" style="padding-right: 5px;" />
 <img align="left" title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/git.png" style="padding-right: 5px;" />
 <img align="left" title="Subversion" alt="Subversion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" style="padding-right: 5px;" />
+<img align="left" title="Android" alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="padding-right: 5px;" />
+<img align="left" title="Docker" alt="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right: 5px;" />
+<img align="left" title="Electron" alt="Electron" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right: 5px;" />
+<img align="left" title="NPM" alt="NPM" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right: 5px;" />
+<img align="left" title="NodeRed" alt="NodeRed" width="34px" src="https://avatars.githubusercontent.com/u/5375661?s=200&v=4" style="padding-right: 5px;" />
 
 <br>
 
@@ -77,6 +83,8 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 <img style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miman&layout=compact&theme=buefy&langs_count=10&custom_title=Languages%20across%20repos"/>
 <!--img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miman&layout=compact&custom_title=Wakatime%20stats&langs_count=10"/>
 **miman/miman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+icons: https://devicon.dev/
 
 Here are some ideas to get you started:
 
