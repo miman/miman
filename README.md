@@ -46,9 +46,9 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 <img align="left" title="Secrets" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" style="padding-right: 5px;"/>
 <img align="left" title="WAF" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/WAF.svg" style="padding-right: 5px;"/>
 <img align="left" title="S3" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" style="padding-right: 5px;"/>
-
 <img align="left" title="SST" alt="AWS" width="70px" src="https://sst.dev/assets/lander/logo/sst.svg" style="padding-right: 5px;"/>
 
+<br>
 <br>
 
 ### Framework / Infra
