@@ -26,6 +26,12 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 <br>
 
+### AI
+
+<img align="left" title="APIGw" alt="Ollama" width="30px" src="https://ollama.com/public/ollama.png" style="padding-right: 2px;"/>
+<img align="left" title="APIGw" alt="CrewAI" width="30px" src="https://www.crewai.com/assets/crew_only-2f0252ef56367dfdb75981ffa2906f3538cf91c125a51204b310dbbb137426d8.png" style="padding-right: 2px;"/>
+<img align="left" title="APIGw" alt="LangChain" width="30px" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE" style="padding-right: 2px;"/>
+
 ### AWS
 
 <img align="left" title="APIGw" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" style="padding-right: 2px;"/>
