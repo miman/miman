@@ -29,7 +29,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 <img align="left" title="APIGw" alt="Ollama" width="30px" src="https://ollama.com/public/ollama.png" style="padding-right: 4px;"/>
 
-<img align="left" title="APIGw" alt="CrewAI" width="80px" src="https://www.crewai.com/assets/crew_only-2f0252ef56367dfdb75981ffa2906f3538cf91c125a51204b310dbbb137426d8.png" style="padding-right: 4px;"/>
+<img align="left" title="APIGw" alt="CrewAI" width="80px" src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" style="padding-right: 4px;"/>
 
 <img align="left" title="APIGw" alt="LangChain" width="80px" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE" style="padding-right: 4px;"/>
 
