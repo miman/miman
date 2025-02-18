@@ -33,7 +33,11 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 <img align="left" title="APIGw" alt="LangChain" width="80px" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE" style="padding-right: 4px;"/>
 
-<img align="left" title="OpenAi" alt="Ollama" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/images/ChatGPT_logo.svg" style="padding-right: 4px;"/>
+<img align="left" title="OpenAi" alt="OpenAi" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/images/ChatGPT_logo.svg" style="padding-right: 4px;"/>
+
+<img align="left" title="Flowise" alt="Flowise" width="60px" src="https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=256&q=75" style="padding-right: 4px;"/>
+<img align="left" title="Autogen" alt="Autogen" width="30px" src="https://microsoft.github.io/autogen/dev//_static/logo.svg" style="padding-right: 4px;"/>
+<img align="left" title="ComfyUI" alt="ComfyUI" width="30px" src="https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png?scale-down-to=1024" style="padding-right: 4px;"/>
 
 <br>
 
