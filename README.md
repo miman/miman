@@ -12,7 +12,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 <img align="left" title="TypeScript" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/ts-logo.png" style="padding-right: 2px;" />
 <img align="left" title="Spring" alt="Spring" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Java" alt="Java" height="34px" src="https://github.com/miman/miman/blob/main/java-icon.png?raw=true" style="padding-right: 2px;" />
+<img align="left" title="Java" alt="Java" src="https://github.com/miman/miman/blob/main/java-icon.png?raw=true" style="height: 34px; width: auto; padding-right: 2px; display: block;" />
 <img align="left" title="C#" alt="C#" width="30px" src="https://github.com/miman/miman/blob/main/c-logo-icon-18.png?raw=true" style="padding-right: 2px;" />
 <img align="left" title="Pyhton" alt="Pyhton" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right: 2px;" />
 <img align="left" title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 2px;" />
