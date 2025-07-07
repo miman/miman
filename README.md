@@ -59,6 +59,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=8BC0D0)
 ![Git](https://img.shields.io/badge/Framework-Git-informational?style=flat&logo=Git&logoColor=white&color=8BC0D0)
 ![Subversion](https://img.shields.io/badge/Framework-Subversion-informational?style=flat&logo=Subversion&logoColor=white&color=8BC0D0)
+![Maven](https://img.shields.io/badge/Framework-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=8BC0D0)
 ![NPM](https://img.shields.io/badge/Framework-NPM-informational?style=flat&logo=NPM&logoColor=white&color=8BC0D0)
 ![Electron](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=Electron&logoColor=white&color=8BC0D0)
 
