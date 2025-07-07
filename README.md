@@ -20,6 +20,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 ![GraphQL](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=3776AB)
 
 ![Ollama](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=Ollama&logoColor=white&color=FF7900)
+![Google Mediapipe](https://img.shields.io/badge/AI-Google_Mediapipe-informational?style=flat&logo=mediapipe&logoColor=white&color=FF7900)
 ![CrewAI](https://img.shields.io/badge/AI-CrewAI-informational?style=flat&logo=CrewAI&logoColor=white&color=FF7900)
 ![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=LangChain&logoColor=white&color=FF7900)
 ![Google ADK](https://img.shields.io/badge/AI-Google_ADK-informational?style=flat&logo=Google&logoColor=white&color=FF7900)
