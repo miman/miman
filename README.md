@@ -29,8 +29,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 ![Autogen](https://img.shields.io/badge/AI-Autogen-informational?style=flat&logo=Autogen&logoColor=white&color=FF7900)
 ![ComfyUI](https://img.shields.io/badge/AI-ComfyUI-informational?style=flat&logo=ComfyUI&logoColor=white&color=FF7900)
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
-![APIGw](https://img.shields.io/badge/Cloud-API_GW-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![APIGw](https://img.shields.io/badge/Cloud-AWS_API_GW-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
 ![AWS AppSync](https://img.shields.io/badge/Cloud-AWS_AppSync-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
 ![AWS EventBridge](https://img.shields.io/badge/Cloud-AWS_EventBridge-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
 ![AWS StepFn](https://img.shields.io/badge/Cloud-AWS_StepFn-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
