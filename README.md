@@ -8,88 +8,66 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 
 <br>
 
-### Languages
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3776AB)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=3776AB)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=3776AB)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=3776AB)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3776AB)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=3776AB)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=3776AB)
+![GraphQL](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=3776AB)
 
-<img align="left" title="TypeScript" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/ts-logo.png" style="padding-right: 2px;" />
-<img align="left" title="Spring" alt="Spring" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Java" alt="Java" src="https://github.com/miman/miman/blob/main/java-icon.png?raw=true" style="height: 34px; width: auto; padding-right: 2px; display: block;" />
-<img align="left" title="C#" alt="C#" width="30px" src="https://github.com/miman/miman/blob/main/c-logo-icon-18.png?raw=true" style="padding-right: 2px;" />
-<img align="left" title="Pyhton" alt="Pyhton" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right: 2px;" />
-<img align="left" title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right: 2px;" />
-<img align="left" title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Flutter" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right: 2px;" />
-<img align="left" title="Dart" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right: 2px;" />
-<img align="left" title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right: 2px;" />
-<img align="left" title="GraphQL" alt="GraphQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="padding-right: 2px;" />
+![Ollama](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=Ollama&logoColor=white&color=FF7900)
+![CrewAI](https://img.shields.io/badge/AI-CrewAI-informational?style=flat&logo=CrewAI&logoColor=white&color=FF7900)
+![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=LangChain&logoColor=white&color=FF7900)
+![OpenAi](https://img.shields.io/badge/AI-OpenAi-informational?style=flat&logo=OpenAi&logoColor=white&color=FF7900)
+![Flowise](https://img.shields.io/badge/AI-Flowise-informational?style=flat&logo=Flowise&logoColor=white&color=FF7900)
+![Autogen](https://img.shields.io/badge/AI-Autogen-informational?style=flat&logo=Autogen&logoColor=white&color=FF7900)
+![ComfyUI](https://img.shields.io/badge/AI-ComfyUI-informational?style=flat&logo=ComfyUI&logoColor=white&color=FF7900)
 
-<br>
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![APIGw](https://img.shields.io/badge/Cloud-API_GW-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS AppSync](https://img.shields.io/badge/Cloud-AWS_AppSync-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS EventBridge](https://img.shields.io/badge/Cloud-AWS_EventBridge-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS StepFn](https://img.shields.io/badge/Cloud-AWS_StepFn-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS EC2](https://img.shields.io/badge/Cloud-AWS_EC2-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS Lambda](https://img.shields.io/badge/Cloud-AWS_Lambda-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS Aurora](https://img.shields.io/badge/Cloud-AWS_Aurora-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS DynamoDb](https://img.shields.io/badge/Cloud-AWS_DynamoDb-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS IoT](https://img.shields.io/badge/Cloud-AWS_IoT-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS SQS](https://img.shields.io/badge/Cloud-AWS_SQS-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS CloudWatch](https://img.shields.io/badge/Cloud-AWS_CloudWatch-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS CloudFront](https://img.shields.io/badge/Cloud-AWS_CloudFront-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS Route53](https://img.shields.io/badge/Cloud-AWS_Route53-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS Cognito](https://img.shields.io/badge/Cloud-AWS_Cognito-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS Secrets](https://img.shields.io/badge/Cloud-AWS_Secrets-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS WAF](https://img.shields.io/badge/Cloud-AWS_WAF-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
+![AWS S3](https://img.shields.io/badge/Cloud-AWS_S3-informational?style=flat&logo=amazonaws&logoColor=white&color=FCC624)
 
-### AI
+![SST](https://img.shields.io/badge/Cloud-SST-informational?style=flat&logo=SST&logoColor=white&color=#E27152)
 
-<img align="left" title="APIGw" alt="Ollama" width="30px" src="https://ollama.com/public/ollama.png" style="padding-right: 4px;"/>
+![PostgreSQL](https://img.shields.io/badge/Infra-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9179E4)
+![Docker](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=9179E4)
+![ActiveMq](https://img.shields.io/badge/Infra-ActiveMq-informational?style=flat&logo=ActiveMq&logoColor=white&color=9179E4)
+![NodeRed](https://img.shields.io/badge/Infra-NodeRed-informational?style=flat&logo=NodeRed&logoColor=white&color=9179E4)
 
-<img align="left" title="APIGw" alt="CrewAI" width="80px" src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" style="padding-right: 4px;"/>
+![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=8BC0D0)
+![Git](https://img.shields.io/badge/Framework-Git-informational?style=flat&logo=Git&logoColor=white&color=8BC0D0)
+![Subversion](https://img.shields.io/badge/Framework-Subversion-informational?style=flat&logo=Subversion&logoColor=white&color=8BC0D0)
+![NPM](https://img.shields.io/badge/Framework-NPM-informational?style=flat&logo=NPM&logoColor=white&color=8BC0D0)
+![Electron](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=Electron&logoColor=white&color=8BC0D0)
 
-<img align="left" title="APIGw" alt="LangChain" width="80px" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE" style="padding-right: 4px;"/>
+![VS Code](https://img.shields.io/badge/Tool-VS%20Code-informational?style=flat&logo=vscode&logoColor=white&color=007ACC)
+![Confluence](https://img.shields.io/badge/Tool-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=007ACC)
+![Jira](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=Jira&logoColor=white&color=007ACC)
+![Github](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=Github&logoColor=white&color=007ACC)
+![Unity](https://img.shields.io/badge/Tool-Unity-informational?style=flat&logo=Unity&logoColor=white&color=007ACC)
 
-<img align="left" title="OpenAi" alt="OpenAi" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/images/ChatGPT_logo.svg" style="padding-right: 4px;"/>
-
-<img align="left" title="Flowise" alt="Flowise" width="60px" src="https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=256&q=75" style="padding-right: 4px;"/>
-<img align="left" title="Autogen" alt="Autogen" width="30px" src="https://microsoft.github.io/autogen/dev//_static/logo.svg" style="padding-right: 4px;"/>
-<img align="left" title="ComfyUI" alt="ComfyUI" width="30px" src="https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png?scale-down-to=1024" style="padding-right: 4px;"/>
-
-<br>
-
-### AWS
-
-<img align="left" title="APIGw" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" style="padding-right: 2px;"/>
-<img align="left" title="AppSync" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/AppSync.svg" style="padding-right: 2px;"/>
-<img align="left" title="EventBridge" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/EventBridge.svg" style="padding-right: 2px;"/>
-<img align="left" title="SQS" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" style="padding-right: 2px;"/>
-<img align="left" title="StepFn" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/App-Integration/Step-Functions.svg" style="padding-right: 2px;"/>
-<img align="left" title="EC2" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" style="padding-right: 2px;"/>
-<img align="left" title="Lambda" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" style="padding-right: 2px;"/>
-<img align="left" title="Aurora" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" style="padding-right: 2px;"/>
-<img align="left" title="DynamoDb" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" style="padding-right: 2px;"/>
-
-<img align="left" title="IoT" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Internet-of-Things/IoT-Core.svg" style="padding-right: 2px;"/>
-<img align="left" title="CloudFormation" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" style="padding-right: 2px;"/>
-<img align="left" title="CloudWatch" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" style="padding-right: 2px;"/>
-<img align="left" title="CloudFront" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" style="padding-right: 2px;"/>
-<img align="left" title="Route53" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" style="padding-right: 2px;"/>
-<img align="left" title="Cognito" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" style="padding-right: 2px;"/>
-<img align="left" title="Secrets" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" style="padding-right: 2px;"/>
-<img align="left" title="WAF" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/WAF.svg" style="padding-right: 2px;"/>
-<img align="left" title="S3" alt="AWS" width="30px" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" style="padding-right: 2px;"/>
-<img align="left" title="SST" alt="AWS" width="70px" src="https://sst.dev/_astro/logo-light.BYAt7w5s.svg" style="padding-right: 2px;"/>
-
-<br>
-<br>
-
-### Framework / Infra
-
-<img align="left" title="Node.js" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right: 2px;" />
-<img align="left" title="PostgreSQL" alt="PostgreSQL" width="38x" src="https://raw.githubusercontent.com/miman/miman/main/postgresql.png" style="padding-right: 2px;" />
-<img align="left" title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/miman/miman/main/git.png" style="padding-right: 2px;" />
-<img align="left" title="Subversion" alt="Subversion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" style="padding-right: 2px;" />
-<img align="left" title="Android" alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Docker" alt="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Electron" alt="Electron" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right: 2px;" />
-<img align="left" title="NPM" alt="NPM" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="NodeRed" alt="NodeRed" width="34px" src="https://avatars.githubusercontent.com/u/5375661?s=200&v=4" style="padding-right: 2px;" />
-<img align="left" title="ActiveMq" alt="ActiveMq" width="85px" src="https://activemq.apache.org/assets/img/activemq_logo_black_small.png" style="padding-right: 2px;" />
-
-<br>
-
-### Tools
-
-<img align="left" title="Vscode" alt="Vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 2px;" />
-<img align="left" title="Confluence" alt="Confluence" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Jira" alt="Confluence" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right: 2px;" />
-<img align="left" title="Github" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right: 2px;" />
-
-<br>
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FCC624)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![Android](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FCC624)
 
 ## Stats
 
