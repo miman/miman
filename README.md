@@ -22,6 +22,7 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 ![Ollama](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=Ollama&logoColor=white&color=FF7900)
 ![CrewAI](https://img.shields.io/badge/AI-CrewAI-informational?style=flat&logo=CrewAI&logoColor=white&color=FF7900)
 ![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=LangChain&logoColor=white&color=FF7900)
+![Google ADK](https://img.shields.io/badge/AI-Google_ADK-informational?style=flat&logo=Google&logoColor=white&color=FF7900)
 ![OpenAi](https://img.shields.io/badge/AI-OpenAi-informational?style=flat&logo=OpenAi&logoColor=white&color=FF7900)
 ![Flowise](https://img.shields.io/badge/AI-Flowise-informational?style=flat&logo=Flowise&logoColor=white&color=FF7900)
 ![Autogen](https://img.shields.io/badge/AI-Autogen-informational?style=flat&logo=Autogen&logoColor=white&color=FF7900)
@@ -51,7 +52,9 @@ Welcome to my development space, I hope you find some fun repos here to use and 
 ![PostgreSQL](https://img.shields.io/badge/Infra-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9179E4)
 ![Docker](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=9179E4)
 ![ActiveMq](https://img.shields.io/badge/Infra-ActiveMq-informational?style=flat&logo=ActiveMq&logoColor=white&color=9179E4)
+![MQTT](https://img.shields.io/badge/Infra-MQTT-informational?style=flat&logo=MQTT&logoColor=white&color=9179E4)
 ![NodeRed](https://img.shields.io/badge/Infra-NodeRed-informational?style=flat&logo=NodeRed&logoColor=white&color=9179E4)
+![homeassistant](https://img.shields.io/badge/Infra-Home_Assistant-informational?style=flat&logo=homeassistant&logoColor=white&color=9179E4)
 
 ![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=8BC0D0)
 ![Git](https://img.shields.io/badge/Framework-Git-informational?style=flat&logo=Git&logoColor=white&color=8BC0D0)
